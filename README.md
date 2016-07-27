@@ -1,5 +1,5 @@
 # pandoc-templates
-Some LaTeX (and maybe other formats) for use with pandoc
+Some LaTeX (and maybe other formats) templates for use with pandoc
 
 ## Available templates
 
